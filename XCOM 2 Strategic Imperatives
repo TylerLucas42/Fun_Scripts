@@ -5,3 +5,44 @@
 2. Science / Intel
 3. Engineering
 4. Supplies
+
+NEW Ranger Build: Sword & Assault Rifle
+- E4: Blademaster (absolutely imperative to make Ranger viable - 
+- E5: Shadow Strike (synergizes extremely well with Rapid Fire - two opening shots for overall +10% aim, +25% crit chance PLUS +40% flanking crit chance)
+- O1: Run and Gun (dash into that elevated flanking position and rain hell) / Conceal (extra Shadow Strike)
+- O3: Implacable (incentivizes kill shots, equivalent to Templar momentum)
+- 04: Untouchable (incentivizes kill shots, equivalent to Templar parry)
+- 06: Rapid Fire (makes extremely good use of very consistent high aim from O6 w/ assault rifle - small aim penalty for double damage)
+
+
+NEW Sharpshooter Build:
+- E4: 
+- E5: 
+- O1: 
+- O3: 
+- O4: 
+- O6: 
+
+
+
+
+
+
+Overall:
+- At magnetic, shotguns slightly outclass assault rifles assuming a random distance from target and equal chance of flanking vs non-flanking.
+- At beam, shotguns and assault rifles are exactly equal, except that the higher accuracy gives assault rifles more consistency, making assault rifles actually FAR SUPERIOR to shotguns overall.
+
+
+
+
+27 tiles range
+
+Shotgun: 40*10 - 30*16 (400 - 480) = -80 / 27 = -3% aim
+Assault: 15*20 - 11*0 (300 - 0) = +300 / 27 = +11% aim
+
+(crit = 30% chance)
+Mag Assault: 6 dmg + (0.3 * 3 crit dmg) = 6.9 dmg, + (0.14 * 6.9) = [[7.9 DMG]]
+Mag Shotgun: 7 dmg + (0.3 * 4 crit dmg) = [[8.2 DMG]]
+
+Beam Assault: 8 dmg + (0.3 * 3 crit dmg) = 8.9, + (0.14 * 8.9) = [[10.2 DMG]]
+Beam Shotgun: 9 dmg + (0.3 * 4 crit dmg) = [[10.2 DMG]]
