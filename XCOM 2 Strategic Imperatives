@@ -6,43 +6,48 @@
 3. Engineering
 4. Supplies
 
-NEW Ranger Build: Sword & Assault Rifle
-- E4: Blademaster (absolutely imperative to make Ranger viable - 
+NEW Ranger Build: Assault Rifle (Recon, Anti-Beast)
+Utilities: Tracer Rounds, Mindshield
+- E4: Blademaster (makes melee Ranger an early game beast, plus Phantom absolutely sucks)
 - E5: Shadow Strike (synergizes extremely well with Rapid Fire - two opening shots for overall +10% aim, +25% crit chance PLUS +40% flanking crit chance)
-- O1: Run and Gun (dash into that elevated flanking position and rain hell) / Conceal (extra Shadow Strike)
-- O3: Implacable (incentivizes kill shots, equivalent to Templar momentum)
+- O1: Conceal (extra Shadow Strike, enables Ranger to be a secondary scout unit)
+- O3: Implacable (incentivizes kill shots, equivalent to Templar momentum) / Bladestorm
 - 04: Untouchable (incentivizes kill shots, equivalent to Templar parry)
 - 06: Rapid Fire (makes extremely good use of very consistent high aim from O6 w/ assault rifle - small aim penalty for double damage)
 
 
-NEW Sharpshooter Build:
-- E4: 
-- E5: 
-- O1: 
-- O3: 
-- O4: 
-- O6: 
+NEW Sharpshooter Build: Pistols (Status Effects, Anti-Lost)
+Utilities: Dragon Rounds, Vest
+- E4: Return Fire (Free pistol damage)
+- E5: Lightning Hands (Free pistol damage)
+- O1: Death From Above (Once you get Darklance, this becomes absolutely broken - functionally the same as Serial. It's already amazing for action economy even without Darklance)
+- O3: Faceoff (Free pistol damage)
+- O4: Steady Hands (Very good passive boost, just as good as the alternative AND it doesn't create a perverse incentive to hunker down instead of shooting)
+- O6: Fan Fire (Free pistol damage)
 
 
+NEW Grenadier Build: Cannons (Grenades, Anti-Armor)
+Utilities: AP Rounds, Grenade, Mindshield
+- E4: Shredder
+- E5: Demolition
+- O1: Heavy Ordnance
+- O3: Volatile Mix
+- O4: Salvo
+- O6: Rupture / Saturation Fire
 
 
+NEW Specialist Build: Assault Rifle (Healing, Anti-Tech)
+Utilities: Bluescreen Rounds, Medikit
+- E4: Medical Protocol
 
 
-Overall:
-- At magnetic, shotguns slightly outclass assault rifles assuming a random distance from target and equal chance of flanking vs non-flanking.
-- At beam, shotguns and assault rifles are exactly equal, except that the higher accuracy gives assault rifles more consistency, making assault rifles actually FAR SUPERIOR to shotguns overall.
+NEW Reaper Build:
+Utilities: Talon Rounds
 
 
+NEW Skirmisher Build: 
+Utilities: Viper Rounds, Proximity Mine
 
 
-27 tiles range
-
-Shotgun: 40*10 - 30*16 (400 - 480) = -80 / 27 = -3% aim
-Assault: 15*20 - 11*0 (300 - 0) = +300 / 27 = +11% aim
-
-(crit = 30% chance)
-Mag Assault: 6 dmg + (0.3 * 3 crit dmg) = 6.9 dmg, + (0.14 * 6.9) = [[7.9 DMG]]
-Mag Shotgun: 7 dmg + (0.3 * 4 crit dmg) = [[8.2 DMG]]
-
-Beam Assault: 8 dmg + (0.3 * 3 crit dmg) = 8.9, + (0.14 * 8.9) = [[10.2 DMG]]
-Beam Shotgun: 9 dmg + (0.3 * 4 crit dmg) = [[10.2 DMG]]
+NEW Templar Build:
+Utilities: Mindshield
