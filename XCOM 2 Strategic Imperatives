@@ -1,26 +1,31 @@
 
 Alien Vulnerabilities:
 
-1. Avatar
+1. Avatars: 
 2. Gatekeeper: Bluescreen vulnerability
-3. Sectopod: Bluescreen vulnerability
-4. Andromedon
-5. Heavy MEC: Bluescreen vulnerability
+3. Sectopod: Bluescreen vulnerability, Combat Specialist vulnerability
+4. Heavy MEC: Bluescreen vulnerability, Combat Specialist vulnerability
+5. Andromedons: 
 6. ADVENT Shieldbearer: Bluescreen vulnerability
 7. Spectre: Bluescreen vulnerability
 8. Codex: Bluescreen vulnerability
-9. Berserker: 
-10. Alien Rulers: Flashbang 
+9. Chryssalids: Bladestorm vulnerability
+10. Alien Rulers: Flashbang vulnerability
+11. Sectoids: Melee vulnerability
+12. ADVENT Troops: Skulljack vulnerability
+        a. Shieldbearers: Bluescreen vulnerability
+        b. Officers: 
+        c. Stun Lancers: 
+        d. Priests: Holy Warrior vulnerability
+        e. Purifiers: Grenade vulnerability
+        f. Troopers: 
+13. Vipers: 
+14. Berserkers: Blind Rage vulnerability
+15. Mutons: 
+16. Chosen: Predictable
 
 
 
-
-4 Strategic Imperatives:
-
-1. Squad Size
-2. Science / Intel
-3. Engineering
-4. Supplies
 
 NEW Ranger Build: Assault Rifle (Recon, Anti-Beast)
 Utilities: Tracer Rounds, Mindshield
